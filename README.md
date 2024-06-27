@@ -6,8 +6,8 @@ Desenvolvedor Full-Stack
 ------------------------
 
 * 🌍 Eu estou localizado em São Paulo, Brasil.
-* 🖥️  Veja Meu Portifolio:[Meu Portfolio](http://Exemplo.com)
-* ✉️  Entre em contato comigo:[victorlgribel@gmail.com](mailto:victorlgribel@gmail.com)
+* 🖥️  Veja Meu Portifolio: [Meu Portfolio](http://Exemplo.com)
+* ✉️  Entre em contato comigo: [victorlgribel@gmail.com](mailto:victorlgribel@gmail.com)
 
 
 ### Skills
